@@ -3,15 +3,13 @@
 
 .. include:: ../README.rst
 
-Introduction
-============
+Contents
+========
 
-.. ADDITIONAL CONTENT START
+.. toctree::
+   :glob:
 
-.. ADDITIONAL CONTENT END
+   gettingstarted/*
+   changelog
 
-Getting Started
-===============
-
-Hey, It's a bit too early to get started with the new version of CREDO.
-Check back soon!
+The project is developed by CREDOProject.
