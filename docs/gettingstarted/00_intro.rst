@@ -12,3 +12,7 @@ researchers.
 At the current state, CREDO offers support for two package managers: pip and
 apt.
 It also supports git, as a means to `clone` other projects.
+
+The smallest unit of configuration data in CREDO is called a spell.
+
+A spell entry contains all the data necessary to install a specific dependency.
