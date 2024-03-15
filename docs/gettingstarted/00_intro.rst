@@ -9,7 +9,7 @@ Reproducible Bioinformatics Project.
 One of CREDO's main goal is to build environments that can be shared across
 researchers.
 
-At the current state, CREDO offers support for two package managers: pip and
+At the current state, CREDO offers support for three package managers: pip and
 apt.
 It also supports git, as a means to `clone` other projects.
 
