@@ -10,6 +10,7 @@ Contents
    :glob:
 
    gettingstarted/*
+   clireference/*
    changelog
 
 The project is developed by CREDOProject.
